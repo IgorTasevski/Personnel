@@ -3,7 +3,7 @@
 ## Technologies used
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 
-* [CSS#](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 * [PHP](https://www.php.net/)
 * [MySQL](https://dev.mysql.com/doc/)
