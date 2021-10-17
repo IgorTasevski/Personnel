@@ -12,7 +12,7 @@
 
 You can either download or clone the project.
 
-`git clone https://github.com/IgorTasevski/personnel.git`
+`git clone https://github.com/IgorTasevski/Personnel.git`
 
 `cd personnel`
 
