@@ -16,6 +16,8 @@ You can either download or clone the project.
 
 `cd personnel`
 
+`git checkout Personnel`
+
 #### Database
 
 * You will find the export to the database in the folder **database**. After importing it locally, you can start the application
