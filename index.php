@@ -105,7 +105,7 @@ if (isset($_SESSION['add_success'])) {
                             FROM calls ca
                             LEFT JOIN users u on u.id = ca.user_id
                             LEFT JOIN clients cl on cl.id = ca.client_id
-                            ORDER BY ca.id ASC LIMIT 1000";
+                            ORDER BY ca.id ASC";
 
             $callsQueryStmt = $connection->prepare($callsQuery);
             $callsQueryStmt->execute();
