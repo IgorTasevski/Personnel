@@ -1,8 +1,8 @@
 <?php
 
-define("APP_URL", "http://localhost/Personnel/");
+define("APP_URL", "");
 
-define("DB_NAME", "personnel");
-define("DB_HOST", "localhost");
-define("DB_USER", "root");
+define("DB_NAME", "");
+define("DB_HOST", "");
+define("DB_USER", "");
 define("DB_PASS", "");
